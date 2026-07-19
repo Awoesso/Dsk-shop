@@ -8,7 +8,7 @@
 **dsk-shop** est une application web e-commerce premium à l'interface moderne (UI/UX fluide, visuels 3D, typographies audacieuses) entièrement optimisée pour le marché de **Lomé au Togo**. L'application combine les standards esthétiques internationaux et les réalités fonctionnelles de l'écosystème togolais.
 
 ---
-
+ 
 ## ✨ Fonctionnalités Majeures
 
 ### 💻 Interface & Expérience Utilisateur (UI/UX)
